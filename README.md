@@ -1,0 +1,2 @@
+# ocourse
+define opencourse format
