@@ -1,0 +1,13 @@
+{
+    "version": "1.0",
+    "author": {
+        "name": "bo",
+        "image": "http://url-to-your-portrait",
+        "email": "your@email.com"
+    },
+    "language": "English",
+    "course": {
+        "name": "Learn Python using Python Mini",
+        "description": "tutorial"
+    }
+}
